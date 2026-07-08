@@ -8,7 +8,7 @@
 /* HERO SECTION */
 .hero {
     height: 100vh;
-    background: url("Images/Coffee-bg.png");
+    background: url("Coffee-bg.png");
     background-size: cover;
     background-position: center;
     position: relative;
